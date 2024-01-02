@@ -1,0 +1,5 @@
+devops-It is the metholodogy which involves pratice to bridge the gap between Devs and operations team.
+Automation-DevOps automation is the process of using specialized tools and methodologies to automate repetitive tasks throughout the software development lifecycle.
+scaling-expanding and shrinking the system pratice as needed
+Insfracture-DevOps infrastructure is a combination of tools, systems, and strategies that support the DevOps methodology
+DevOps is a significant IT practice that can help businesses improve their business models
